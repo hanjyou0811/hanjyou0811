@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+<a href="https://kotkosaski.pythonanywhere.com/now">
+  <img
+    src="https://kotkosaski.pythonanywhere.com/?spin=true&theme=dark"
+    alt="Spotifyで聴いている曲"
+  />
+</a>
+
 <!--
 **hanjyou0811/hanjyou0811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
